@@ -1,6 +1,6 @@
 # COFFEE AND CODE - Submission Report
 
-This is the official code repository for Natural Farms. This application was developed during CODEBRIGADE, the online hackathon conducted by UIET, Panjab University.
+This is the official code repository for Farm Easy. This application was developed during CODEBRIGADE, the online hackathon conducted by UIET, Panjab University.
 
 ### CODEBRIGADE
 * Jatin Jain
