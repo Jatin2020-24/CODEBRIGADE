@@ -21,7 +21,7 @@ const Header = () => {
         <Navbar collapseOnSelect expand="lg" fixed="top">
             <LinkContainer to="/">
                 <Navbar.Brand className="nav-cal" >
-                    <Image width="80px"src="/Logo.png" />
+                    <Image width="80px"src="/Logo.jpeg" />
                 </Navbar.Brand>
             </LinkContainer>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
