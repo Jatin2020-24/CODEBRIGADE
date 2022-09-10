@@ -14,7 +14,7 @@ const FarmerScreen = () => {
     return (
         <div>
             <Meta
-                title="Agroic | Farmers"
+                title="Farm Easy | Farmers"
             />
             <Container className='farmerContainer'>
                 <h1 className='title'>FARMER</h1>

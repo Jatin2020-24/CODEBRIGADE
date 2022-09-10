@@ -33,7 +33,7 @@ const PredictComponent = ({ location, history }) => {
     return (
         <FormContainer>
             <Meta
-                title="Agroic | Predict Crop Yield"
+                title="Farm Easy | Predict Crop Yield"
             />
             <h1 style={{ marginTop: '120px' }}>Predict</h1>
             {/* { error && <Message variant='danger'>{error}</Message>} */}
